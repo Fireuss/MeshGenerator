@@ -212,7 +212,7 @@ MonoBehaviour:
   zSize: 20
   gradient:
     serializedVersion: 2
-    key0: {r: 0.5414931, g: 0.8396226, b: 0.51882344, a: 1}
+    key0: {r: 0.25192326, g: 0.4245283, b: 0.23829654, a: 1}
     key1: {r: 1, g: 1, b: 1, a: 1}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
